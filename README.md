@@ -2,15 +2,13 @@
 
 
 
-#rossikamal@gmail.com
-
-
-kamalrossi.github.io/profile
+rossikamal@gmail.com        kamalrossi.github.io/profile
 
 
 #chainlit #nogpt #talk with pdf
 
 
-how to run the app
+(how to run the app)
+in terminal:
 chainlit run app.py
 
